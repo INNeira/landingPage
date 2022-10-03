@@ -1,0 +1,24 @@
+.aboutBox{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: #1130e4;
+}
+
+.welcome{
+    display: grid;
+    place-content: center;
+}
+
+.welcome span{
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: 30px 0;
+}
+
+.aLotOfText{
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: left;
+    margin-bottom: 30px;
+}
